@@ -3,7 +3,7 @@
         <!-- DataTales Example -->
         <div class="card shadow mb-4">
             <div class="card-header py-3">
-                <h6 class="m-0 font-weight-bold text-secondary">Data Kriteria</h6>
+                <h6 class="m-0 font-weight-bold text-secondary">Berikut Merupakan Data Kriteria</h6>
             </div>
             &nbsp;
             <div class="col-auto">
