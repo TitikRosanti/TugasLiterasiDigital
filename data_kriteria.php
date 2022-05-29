@@ -13,7 +13,7 @@
                         <i class="fa fa-plus"></i>
                     </span>
                     <span class="text">
-                        Tambah Data Kriteria
+                        Tambah Data Kriteria Suplier
                     </span>
                 </a>
             </div>
@@ -22,7 +22,7 @@
                     <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
                         <thead>
                             <tr>
-                                <th>No</th>
+                                <th>Nomor</th>
                                 <th>Kode Kriteria</th>
                                 <th>Nama Kriteria</th>
                                 <th>Aksi</th>
